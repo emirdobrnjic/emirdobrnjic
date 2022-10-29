@@ -8,7 +8,7 @@ Software Developer
 * ✉️  You can contact me at [emirdobrnjic122@gmail.com](mailto:emirdobrnjic122@gmail.com)
 * 🧠  I'm learning Full Stack Development
 * 🤝  I'm open to Junior/Intern Positions
-
+* 🤝  An organization run by my colleagues and me -> https://github.com/Infinity-Vault
 ### Skills
 
 
